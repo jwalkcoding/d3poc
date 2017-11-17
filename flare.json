@@ -1,0 +1,28 @@
+{
+    "name": "Betty Rubble (CEO)",
+    "children": [
+     {
+      "name": "Barney Rubble (SMD",
+      "children": [
+       {
+        "name": "Bam Bam Rubble (MO)"
+       },
+       {
+        "name": "Pebbles Rubble (MO)"
+       },
+       {"name": "Jay Walker (MO)"},
+       {"name": "Knight Hawk (MO)"},
+       {"name": "Brian Yarbrough (MO)"}
+      ]
+     },
+     {
+      "name": "Fred Flintstone (SMD)",
+      "children": [
+       {"name": "Wilma Flintstone (MO)"},
+       {"name": "Mr. Slate (MO", "size": 1041},
+       {"name": "Keith Schockling (MO)"},
+       {"name": "Alex Harris (MO)"} 
+      ]
+     }
+        ]
+       }
